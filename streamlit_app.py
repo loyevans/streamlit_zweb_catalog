@@ -1,4 +1,4 @@
 import streamlit
-import snowflake.connector 
+import snowflake.connector
 
 streamlit.title('Prototype Web Site for Healthy Diner')
